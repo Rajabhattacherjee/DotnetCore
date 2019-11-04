@@ -1,0 +1,14 @@
+C:\Jenkins\workspace\DOTNET_BUILD\bin\Release\netcoreapp2.1\WebApplication1.deps.json
+C:\Jenkins\workspace\DOTNET_BUILD\bin\Release\netcoreapp2.1\WebApplication1.runtimeconfig.json
+C:\Jenkins\workspace\DOTNET_BUILD\bin\Release\netcoreapp2.1\WebApplication1.runtimeconfig.dev.json
+C:\Jenkins\workspace\DOTNET_BUILD\bin\Release\netcoreapp2.1\WebApplication1.dll
+C:\Jenkins\workspace\DOTNET_BUILD\bin\Release\netcoreapp2.1\WebApplication1.pdb
+C:\Jenkins\workspace\DOTNET_BUILD\obj\Release\netcoreapp2.1\WebApplication1.csprojAssemblyReference.cache
+C:\Jenkins\workspace\DOTNET_BUILD\obj\Release\netcoreapp2.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Jenkins\workspace\DOTNET_BUILD\obj\Release\netcoreapp2.1\WebApplication1.RazorAssemblyInfo.cache
+C:\Jenkins\workspace\DOTNET_BUILD\obj\Release\netcoreapp2.1\WebApplication1.RazorAssemblyInfo.cs
+C:\Jenkins\workspace\DOTNET_BUILD\obj\Release\netcoreapp2.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Jenkins\workspace\DOTNET_BUILD\obj\Release\netcoreapp2.1\WebApplication1.AssemblyInfo.cs
+C:\Jenkins\workspace\DOTNET_BUILD\obj\Release\netcoreapp2.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Jenkins\workspace\DOTNET_BUILD\obj\Release\netcoreapp2.1\WebApplication1.dll
+C:\Jenkins\workspace\DOTNET_BUILD\obj\Release\netcoreapp2.1\WebApplication1.pdb

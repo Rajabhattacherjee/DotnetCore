@@ -1,0 +1,27 @@
+pipeline {
+agent { label 'remote' }
+environment {
+dotnet = "C:\\Program Files\\dotnet\\dotnet.exe"
+}
+stages {
+stage ('Checkout') {
+           steps {
+                git credentialsId: 'Raja.bhattacherjee@volkswagen.co.in', url: 'https://github.com/Rajabhattacherjee/NetCore.git',branch: 'master'            }
+}
+stage('Clean') {
+     steps {
+           bat '"C:\\Program Files\\dotnet\\dotnet.exe" clean'
+      }
+   }
+stage('Build') {
+    steps {
+           bat '"C:\\Program Files\\dotnet\\dotnet.exe" build --configuration Release'
+     }
+  }
+stage('Pack') {
+    steps {
+          bat '"C:\\Program Files\\dotnet\\dotnet.exe" pack --no-build --output nupkgs'
+     }
+  }
+}
+}
